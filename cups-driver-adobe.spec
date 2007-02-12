@@ -1,7 +1,7 @@
 # TODO
 # - check license. adding nosource as licensing is not clear
 Summary:	Adobe Universal PostScript Windows Driver
-Summary(pl.UTF-8):   Uniwersalny sterownik postscriptowy Adobe dla Windows
+Summary(pl.UTF-8):	Uniwersalny sterownik postscriptowy Adobe dla Windows
 Name:		cups-driver-adobe
 Version:	1.0.6
 Release:	0.1
