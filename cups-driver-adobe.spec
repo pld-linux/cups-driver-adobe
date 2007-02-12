@@ -1,7 +1,7 @@
 # TODO
 # - check license. adding nosource as licensing is not clear
 Summary:	Adobe Universal PostScript Windows Driver
-Summary(pl):	Uniwersalny sterownik postscriptowy Adobe dla Windows
+Summary(pl.UTF-8):   Uniwersalny sterownik postscriptowy Adobe dla Windows
 Name:		cups-driver-adobe
 Version:	1.0.6
 Release:	0.1
@@ -36,23 +36,23 @@ Incorporated and Microsoft Corporation.
 
 This is the Windows driver support package for use with Samba.
 
-%description -l pl
+%description -l pl.UTF-8
 Ten pakiet zawiera uniwersalny sterownik postscriptowy Adobe dla
-Windows (Adobe Universal PostScript Windows Driver) dla obs³ugiwanych
+Windows (Adobe Universal PostScript Windows Driver) dla obsÅ‚ugiwanych
 platform Microsoft Windows:
 - AdobePS 4.5.3 dla Windows 95, Windows 98, Windows 98 Second Edition
   i Windows Millennium Edition
 - AdobePS 5.2.2 dla Windows NT 4.0
 - PScript 5 dla Windows 2000 i Windows XP
 
-Sterowniki te pozwalaj± na drukowanie dokumentów z aplikacji
-dzia³aj±cych pod wy¿ej wymienionymi platformami Windows na dowolnej
-drukarce obs³uguj±cej Adobe PostScript Level 2 lub Adobe PostScript 3.
+Sterowniki te pozwalajÄ… na drukowanie dokumentÃ³w z aplikacji
+dziaÅ‚ajÄ…cych pod wyÅ¼ej wymienionymi platformami Windows na dowolnej
+drukarce obsÅ‚ugujÄ…cej Adobe PostScript Level 2 lub Adobe PostScript 3.
 
-Ten sterownik drukarki powsta³ we wspó³pracy miêdzy Adobe Systems
+Ten sterownik drukarki powstaÅ‚ we wspÃ³Å‚pracy miÄ™dzy Adobe Systems
 Incorporated i Microsoft Corporation.
 
-Jest to pakiet wspieraj±cy sterownik windowsowy do u¿ywania z Samb±.
+Jest to pakiet wspierajÄ…cy sterownik windowsowy do uÅ¼ywania z SambÄ….
 
 %prep
 %setup -qcT
